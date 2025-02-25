@@ -1,0 +1,5 @@
+{
+  "app-prod-<GROUP-NUMBER>": {
+    "version": "v0.1.0"
+  }
+}
